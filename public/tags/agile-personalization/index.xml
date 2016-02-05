@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agile Personalization on The Personalization Podcast</title>
+    <link>http://personalizationpodcast.com/tags/agile-personalization/</link>
+    <description>Recent content in Agile Personalization on The Personalization Podcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Jan 2016 21:55:29 -0500</lastBuildDate>
+    <atom:link href="http://personalizationpodcast.com/tags/agile-personalization/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Episode 3: Agile Personalization Explained</title>
+      <link>http://personalizationpodcast.com/post/episode-3/</link>
+      <pubDate>Mon, 18 Jan 2016 21:55:29 -0500</pubDate>
+      
+      <guid>http://personalizationpodcast.com/post/episode-3/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/242024170&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Hello and welcome to The Personalization Podcast! This is the show about
+understanding, planning, building and analyzing personalized experiences.
+I&amp;rsquo;m your host, Dave Ingram, and today we&amp;rsquo;re going to be talking about Agile
+Personalization, or in other words, how you can get the most out of a
+personalization program and a personalization team in the least amount of time.&lt;/p&gt;
+
+&lt;p&gt;Doing personalization well is all about iterating quickly, and that&amp;rsquo;s what
+this episode is about. We&amp;rsquo;ll be borrowing a lot of ideas from the software
+development space, but FEAR NOT! There&amp;rsquo;s no deep, technical stuff coming
+your way. These are straight forward, down to earth principles that you can
+take and apply to almost any area of your life or business that needs to
+be more efficient.&lt;/p&gt;
+
+&lt;p&gt;Don&amp;rsquo;t forget, you can get to show notes at personalizationpodcast.com, and
+you can send questions and feedback to @p13npodcast on Twitter or the
+Personalization Podcast page on Facebook.&lt;/p&gt;
+
+&lt;h2 id=&#34;in-the-news:cb51fda0943db036025e1dcca5e429a3&#34;&gt;In the News&lt;/h2&gt;
+
+&lt;h3 id=&#34;smart-refrigerators-http-www-cnet-com-news-touchscreen-refrigerators-and-talking-everything-at-ces-2016:cb51fda0943db036025e1dcca5e429a3&#34;&gt;&lt;a href=&#34;http://www.cnet.com/news/touchscreen-refrigerators-and-talking-everything-at-ces-2016/&#34;&gt;Smart Refrigerators?&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;We&amp;rsquo;ve heard about them for years, and there was a new one revealed last week
+at CES. It&amp;rsquo;s got a pretty big touch screen that will run apps so you can look
+up recipes just like people have been saying for a long time. Maybe no big deal,
+but one feature that I like is that it will actually send you pictures of what&amp;rsquo;s
+inside your fridge when you&amp;rsquo;re at the store so you can see what you forgot.&lt;/p&gt;
+
+&lt;p&gt;Worth the $5000 price tag? probably not, but neat none the less.&lt;/p&gt;
+
+&lt;p&gt;What does this have to do with personalization? Well, CES was full of all the
+other hot new gadgets from wearables to connected homes to self driving cars
+which should give anyone pause who is thinking in terms of the Web and Email
+only. The world is changing quickly, and if you&amp;rsquo;re creating digital experiences,
+you need to be prepared for it all to be different very soon.&lt;/p&gt;
+
+&lt;h3 id=&#34;9-reasons-why-personalized-marketing-still-isn-t-accurate-http-www-informationweek-com-big-data-big-data-analytics-9-reasons-why-personalized-marketing-still-isnt-accurate-d-d-id-1323736-image-number-2:cb51fda0943db036025e1dcca5e429a3&#34;&gt;&lt;a href=&#34;http://www.informationweek.com/big-data/big-data-analytics/9-reasons-why-personalized-marketing-still-isnt-accurate/d/d-id/1323736?image_number=2&#34;&gt;9 Reasons Why Personalized Marketing Still Isn&amp;rsquo;t Accurate&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Information Week - Lisa Morgan&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;The Data Quality Is Poor&lt;/li&gt;
+&lt;li&gt;Data Isn&amp;rsquo;t Integrated&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;re relying too heavily on Legacy Systems&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;re discounting internal data assets&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;re putting too much faith in the wrong data&lt;/li&gt;
+&lt;li&gt;The analytics used are too basic&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;re relying too much on technology&lt;/li&gt;
+&lt;li&gt;You think personalization is a marketing problem &amp;ndash; &amp;ldquo;customers expect personalized experiences throughout the lifetime of a relationship with a company&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s Still Early Days &amp;ndash; &amp;ldquo;While there&amp;rsquo;s a debate about the maturity state of the technology, what&amp;rsquo;s less debated is the need for organizational change.&amp;rdquo;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;agile-personalization:cb51fda0943db036025e1dcca5e429a3&#34;&gt;Agile Personalization&lt;/h2&gt;
+
+&lt;h3 id=&#34;key-ideas:cb51fda0943db036025e1dcca5e429a3&#34;&gt;Key ideas:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Iteration and Learning&lt;/li&gt;
+&lt;li&gt;Infinite possibilities when it comes to things you can do&lt;/li&gt;
+&lt;li&gt;Strategy, Goals and Initiatives .. high level and we&amp;rsquo;ll come back to this&lt;/li&gt;
+&lt;li&gt;Tasks or Stories
+
+&lt;ul&gt;
+&lt;li&gt;Where do Stories come from?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Prioritization of Stories&lt;/li&gt;
+&lt;li&gt;Sprints or Iterations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I also mentioned Facebook Planout, an open source experimentation framework.&lt;/p&gt;
+
+&lt;p&gt;For all of these ideas in written form, look out for a soon to be published
+blog post on &lt;a href=&#34;http://acquia.com&#34;&gt;Acquia.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Episode 2: The Personalization Team</title>
+      <link>http://personalizationpodcast.com/post/episode-2/</link>
+      <pubDate>Mon, 11 Jan 2016 21:53:16 -0500</pubDate>
+      
+      <guid>http://personalizationpodcast.com/post/episode-2/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/241498057&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Welcome to Episode 2 of The Personalization Podcast&amp;ndash;The show about understanding,
+planning, building and analyzing Personalized Experiences. We talked last time
+about what personalization is, so today we&amp;rsquo;re going to talk about the very first
+step you need to take to get started. This doesn&amp;rsquo;t involve buying software,
+building complex infrastructure or anything of that sort. Step 1 is all about
+People. In fact, thinking about what it takes to be successful in personalization,
+I think there are three things that matter: People, Process and Product. The
+software itself is last in line because if you don&amp;rsquo;t have the right people and
+an appropriate process in place, you&amp;rsquo;ll be set up for failure no matter how
+much you spend.&lt;/p&gt;
+
+&lt;p&gt;Before we dive into the news, in the last episode I promised a Q&amp;amp;A section, but
+never gave a method to reach out. So if you want to ask questions, send feedback
+or just generally get in touch, you can go to personalizationpodcast.com, or
+tweet to @p13npodcast. P13n is an abbreviation for Personalization. In other words,
+there&amp;rsquo;s a p, 13 more letters, then an n. It turns out personalizationpodcast is
+too long for a twitter handle.&lt;/p&gt;
+
+&lt;p&gt;In case Twitter isn&amp;rsquo;t your thing. You can also find the show on facebook by
+simply searching for Personalization Podcast and post questions or feedback
+there.&lt;/p&gt;
+
+&lt;h2 id=&#34;in-the-news:51ade350eab725e837a47d1a4253ca0c&#34;&gt;In the News&lt;/h2&gt;
+
+&lt;h3 id=&#34;the-contextual-marketing-imperative-http-go-sap-com-docs-download-2015-10-3c6868f1-487c-0010-82c7-eda71af511fa-pdf:51ade350eab725e837a47d1a4253ca0c&#34;&gt;&lt;a href=&#34;http://go.sap.com/docs/download/2015/10/3c6868f1-487c-0010-82c7-eda71af511fa.pdf&#34;&gt;The Contextual Marketing Imperative&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;This paper came across my Twitter feed the other day, and while it was published
+in October last year, it still seems worth sharing. In fact, it was &lt;a href=&#34;http://www.websitemagazine.com/content/blogs/posts/archive/2016/01/08/the-time-is-now-personalization-in-the-age-of-contextual-marketing.aspx&#34;&gt;an  infographic&lt;/a&gt; which had initially caught
+my eye, which has a number of interesting statistics about personalization based
+on the Forrester Survey. Some key stats follow:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;91% of marketers are prioritizing improving customer experience through personalization
+over the next year&lt;/li&gt;
+&lt;li&gt;66% of consumers reported that personalized offers and content has had an impact on their
+decision to purchase a product or service&lt;/li&gt;
+&lt;li&gt;44% of customers say they receive too many offers and promotions&lt;/li&gt;
+&lt;li&gt;Marketers use an average of 15 siloed data sources, resulting in inconsistent
+customer experiences.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;algorithms-need-managers-too-https-hbr-org-2016-01-algorithms-need-managers-too:51ade350eab725e837a47d1a4253ca0c&#34;&gt;&lt;a href=&#34;https://hbr.org/2016/01/algorithms-need-managers-too&#34;&gt;Algorithms need Managers, Too&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Algorithms get things wrong and need management.&lt;/p&gt;
+
+&lt;p&gt;Defining your goals correctly is one of the most important things that you can do, as this story illustrates:&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Everyone has objectives and directives, but we also know that the end doesn’t always justify the means. We understand that there are soft (often unspoken) goals and trade-offs. We may turn down a little profit today for a gain in reputation tomorrow. We may strive for equality—even if it causes organizational pain in the short term. Algorithms, on the other hand, will pursue a specified objective single-mindedly. The best way to mitigate this is to be crystal clear about everything you want to achieve.&lt;/p&gt;
+
+&lt;p&gt;If you care about a soft goal, you need to state it, define it, and quantify how much it matters. To the extent that soft goals are difficult to measure, keep them top of mind when acting on the results from an algorithm.&lt;/p&gt;
+
+&lt;p&gt;At Google (which has funded some of our research on other topics), a soft-goal problem emerged with an algorithm that determines which ads to display. Harvard professor Latanya Sweeney unearthed it in a study. She found that when you typed names that were typically African American, like “Latanya Farrell,” into Google, you were shown ads offering to investigate possible arrest records, but not when you searched on names like “Kristen Haring.” Google’s hard goal of maximizing clicks on ads had led to a situation in which its algorithms, refined through feedback over time, were in effect defaming people with certain kinds of names. It happened because people who searched for particular names were more likely to click on arrest records, which led these records to appear even more often, creating a self-reinforcing loop. This probably was not the intended outcome, but without a soft goal in place, there was no mechanism to steer the algorithm away from it.&amp;rdquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-personalization-team:51ade350eab725e837a47d1a4253ca0c&#34;&gt;The Personalization Team&lt;/h2&gt;
+
+&lt;h3 id=&#34;skills-required:51ade350eab725e837a47d1a4253ca0c&#34;&gt;Skills Required&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Creatives&lt;/li&gt;
+&lt;li&gt;The Analysts&lt;/li&gt;
+&lt;li&gt;The Technical&lt;/li&gt;
+&lt;li&gt;The Personalization Owner&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This should be a Cross Functional team as much as possible.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s fine if some of these people are from agencies, but the key point is that
+you need to be iterative. Without iteration, you won&amp;rsquo;t see benefits quickly
+enough.&lt;/p&gt;
+
+&lt;p&gt;For this section in full written form, check out the &lt;a href=&#34;https://www.acquia.com/blog/how-build-successful-personalization-team/06/01/2016/3291021&#34;&gt;blog post&lt;/a&gt;
+on this topic.&lt;/p&gt;
+
+&lt;h3 id=&#34;learning-from-agile:51ade350eab725e837a47d1a4253ca0c&#34;&gt;Learning from Agile&lt;/h3&gt;
+
+&lt;p&gt;Next episode I&amp;rsquo;ll do a breakdown of what Agile Personalization is really all about,
+but the preview for today is that being Agile means iterating quickly over a lot
+of ideas and properly prioritizing those ideas so that you&amp;rsquo;re doing the best
+things first. On top of that, you see results quickly. Quick results mean happy
+stakeholders and more success.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;A couple of reading suggestions:&lt;/em&gt;
+- &lt;a href=&#34;http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898&#34;&gt;Lean Startup by Eric Ries&lt;/a&gt;
+- &lt;a href=&#34;http://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X&#34;&gt;Scrum by Jeff Sutherland&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-of-the-week:51ade350eab725e837a47d1a4253ca0c&#34;&gt;Tip of the Week&lt;/h2&gt;
+
+&lt;p&gt;Free A/B testing! Google has A/B testing baked into Google Analytics. If you&amp;rsquo;re
+looking to get a quick start into Personalization and don&amp;rsquo;t have the budget for
+advanced software, check this out. It&amp;rsquo;s called &lt;a href=&#34;https://support.google.com/analytics/answer/1745152?hl=en&#34;&gt;Content Experiments&lt;/a&gt; and it
+allows you to direct people to 2 or more different URLs and see how they respond
+to each.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

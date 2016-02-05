@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personalization on The Personalization Podcast</title>
+    <link>http://personalizationpodcast.com/tags/personalization/</link>
+    <description>Recent content in Personalization on The Personalization Podcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jan 2016 21:51:19 -0500</lastBuildDate>
+    <atom:link href="http://personalizationpodcast.com/tags/personalization/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Episode 1: Welcome and What is Personalization?</title>
+      <link>http://personalizationpodcast.com/post/episode-1/</link>
+      <pubDate>Thu, 07 Jan 2016 21:51:19 -0500</pubDate>
+      
+      <guid>http://personalizationpodcast.com/post/episode-1/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/240912763&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Hello and welcome to the Personalization Podcast, the show about understanding, planning, creating and analyzing personalized experiences. I am your host, Dave Ingram, and I am excited to bring you this first of many episodes! Today’s show is all about defining personalization. What is it? What can you do with it? What all is involved?&lt;/p&gt;
+
+&lt;p&gt;I’ll also be talking a little bit about the format of this show and what you can expect.&lt;/p&gt;
+
+&lt;p&gt;You might also be wondering who this guy is who’s talking to you right now, so a very brief introduction. I grew up in the South, then moved to New England to be involved in building a personalization product called Acquia Lift. This show isn’t going to talk much about that product, though I may slip in an anecdote or example from it from time to time. In college I pursued degrees in music and computer science before eventually settling on political science, after which I promptly went to work in the tech field building websites. I’ve subsequently worked in both sales and in product management. I have hobbies in music and photography.&lt;/p&gt;
+
+&lt;p&gt;You could either say that I’m interested in lots of subjects, or that I have a hard time keeping interest in one thing for long enough. In either case, hat’s probably why I’m so fascinated in the subject of Personalization which sits at the intersection of technology and the humanities, encompassing subjects as diverse as data science and machine learning, several branches of psychology, organizational structure and management, big data challenges, and various other technical and non-technical subjects. Many of these areas are also changing rapidly, so just trying to keep up can be an enormous challenge. So this show is going to cover pretty much anything that I feel is related in any meaningful way to building personalized experiences.&lt;/p&gt;
+
+&lt;p&gt;Some episodes will be just me, covering a specific topic in personalization such as building personalization teams and process ideas on how to run them, as well as tools and techniques available for doing personalization. In other episodes, I’ll be bringing on guests to talk about, again, pretty much anything related in any way to personalization, so look for experts in marketing, technology, data science, user experience research, psychology and more as the weeks roll on.&lt;/p&gt;
+
+&lt;p&gt;In addition to whatever the main section is, we’ll also be starting out each show with a quick look into the news to bring both breaking stories, as pointing you to other great articles, books or podcasts in this space. Then, at the end of each episode, we’ll reserve a few minutes for either a question and answer or for a Tip of the Week. Just one more little nugget until we meet again.&lt;/p&gt;
+
+&lt;p&gt;Well, whether you’re building personalized experiences yourself, working with or managing someone who is, or just interested in where this field is going, I’m excited about this journey and I hope you’ll join me along the way.&lt;/p&gt;
+
+&lt;h2 id=&#34;in-the-news:2fede85e9f1a69a5f89f1b281051b3fc&#34;&gt;In the News&lt;/h2&gt;
+
+&lt;h3 id=&#34;2016-five-predictions-for-the-conversion-optimization-industry-http-conversion-com-blog-2016-five-predictions-for-the-conversion-optimization-industry:2fede85e9f1a69a5f89f1b281051b3fc&#34;&gt;&lt;a href=&#34;http://conversion.com/blog/2016-five-predictions-for-the-conversion-optimization-industry/&#34;&gt;2016: Five predictions for the conversion optimization industry&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Stephen Pavlovich&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;I have a love/hate relationship with personalization.&lt;/p&gt;
+
+&lt;p&gt;It offers a huge opportunity to companies with a strong foundation of split-testing.&lt;/p&gt;
+
+&lt;p&gt;But if you don’t have this foundation – if you don’t know which user segments to target, what motivates them and what stops them – then you risk forking your website and creating multiple suboptimal experiences.&lt;/p&gt;
+
+&lt;p&gt;But personalization can and should be huge – both for brands and the software vendors that support them.&amp;rdquo;&lt;/p&gt;
+
+&lt;h3 id=&#34;digital-personalization-separating-hype-from-reality-https-medium-com-blatantdigital-digital-personalization-separating-hype-from-reality-889e082ee53d-fo055nk8q:2fede85e9f1a69a5f89f1b281051b3fc&#34;&gt;&lt;a href=&#34;https://medium.com/@BlatantDigital/digital-personalization-separating-hype-from-reality-889e082ee53d#.fo055nk8q&#34;&gt;Digital Personalization, Separating Hype from Reality&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&amp;ldquo;How many companies out there mega million dollar budgets with teams of engineers and statisticians running experiments on details like the color or shape of a button? How many companies are selling consumer-specific products at towering scale? These case studies [about Amazon and Netflix] are not relevant for most businesses.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;The Responsible Marketer’s Quick Start Guide to Personalization
+1. Research your audience.
+2. Develop Useful Segments and Personas.
+3. Create Customer Journey Maps.
+4. Identify Meaningful KPIs.
+5. Produce Kickass Content.
+6. Run Controlled Experiments.
+7. Personalize.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-is-personalization:2fede85e9f1a69a5f89f1b281051b3fc&#34;&gt;What is Personalization?&lt;/h2&gt;
+
+&lt;p&gt;So let’s take a moment to define what we actually mean by personalization. There are a few possible definitions:&lt;/p&gt;
+
+&lt;p&gt;Showing the right content, to the right person, at the right time
+Guiding an individual’s experience based on their context.&lt;/p&gt;
+
+&lt;p&gt;Either one of these works, but I like the latter. To me, the concept of personalization is really quite simple. If I know something about you that might be relevant to help me serve your needs better, then I will use that piece of information to guide you in the right direction. An example based on retail stores is in the episode.&lt;/p&gt;
+
+&lt;p&gt;Contextualization vs. Personalization: semantics in my opinion but there&amp;rsquo;s some great research there that&amp;rsquo;s worth looking at.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-context-is-available:2fede85e9f1a69a5f89f1b281051b3fc&#34;&gt;What context is available?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ask them a question&lt;/li&gt;
+&lt;li&gt;Device&lt;/li&gt;
+&lt;li&gt;Geography&lt;/li&gt;
+&lt;li&gt;Referral Source&lt;/li&gt;
+&lt;li&gt;Behavior&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There is a lot in all of this, and we&amp;rsquo;ll be exploring this more in future episodes.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-do-you-respond-to-that-context:2fede85e9f1a69a5f89f1b281051b3fc&#34;&gt;How do you respond to that context?&lt;/h3&gt;
+
+&lt;p&gt;Use either Rules or Algorithms. Lots of software available. More on specific techniques in future episodes.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-importance-of-testing:2fede85e9f1a69a5f89f1b281051b3fc&#34;&gt;The importance of testing.&lt;/h3&gt;
+
+&lt;p&gt;A/B testing is absolutely critical. If you don’t test, you’re wasting a lot of time.&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-of-the-week:2fede85e9f1a69a5f89f1b281051b3fc&#34;&gt;Tip of the Week&lt;/h2&gt;
+
+&lt;p&gt;Think like a scientist. Become a researcher and search for generalizable knowledge.&lt;/p&gt;
+
+&lt;h2 id=&#34;thanks:2fede85e9f1a69a5f89f1b281051b3fc&#34;&gt;Thanks!&lt;/h2&gt;
+
+&lt;p&gt;Please visit &lt;a href=&#34;http://personalizationpodcast.com&#34;&gt;personalizationpodcast.com&lt;/a&gt; to view show notes and to send questions and feedback. And stay tuned for the next episode where we’ll dive into building a personalization team and talk about using an agile process to reap the benefits of personalization as early as possible.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
