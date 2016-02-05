@@ -781,10 +781,8 @@ body.post-template .site-header h2 .logo {
   clear: both; }
 
 .author p.badge {
+  display:block;
   text-align: center;
-  margin: 10px 0;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center; 
+  margin: 30px 0;
 }
 

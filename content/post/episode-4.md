@@ -11,5 +11,6 @@ In this show I'm joined by [Kyle Polich](https://twitter.com/dataskeptic)  of th
 Kyle and I discuss the importance of being skeptical of and with data, within the context of Personalization, Web Analytics and particularly A/B testing.
 
 Resources mentioned in this show:
-* [Open Intro Statistics](https://www.openintro.org/stat/textbook.php)
-* [Data Science Renee](https://twitter.com/BecomingDataSci)
+
+- [Open Intro Statistics](https://www.openintro.org/stat/textbook.php)
+- [Data Science Renee](https://twitter.com/BecomingDataSci)
