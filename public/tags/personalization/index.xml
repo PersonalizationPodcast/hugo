@@ -6,8 +6,190 @@
     <description>Recent content in Personalization on The Personalization Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Feb 2016 20:27:59 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 25 Feb 2016 12:21:07 -0500</lastBuildDate>
     <atom:link href="http://personalizationpodcast.com/tags/personalization/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Episode 8: Context, Context, Context</title>
+      <link>http://personalizationpodcast.com/post/episode-8/</link>
+      <pubDate>Thu, 25 Feb 2016 12:21:07 -0500</pubDate>
+      
+      <guid>http://personalizationpodcast.com/post/episode-8/</guid>
+      <description>
+
+&lt;h1 id=&#34;context-context-context:86495ce0bd02ab48a50c4325d0c82ced&#34;&gt;Context, Context, Context&lt;/h1&gt;
+
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/248948406&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;If Content is King, then Context is Queen. Personalization is all about matching
+the right content or messaging to the right person, and doing that means you need
+to know something about who that person is. In fact, the more you know, the more
+likely you are to be successful.&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s not to say that all context is created equal though. Depending on your
+organization and your audience, different pieces of information may be critical
+or close to meaningless. As a simple example, a retailer may be heavily effected
+by a customer&amp;rsquo;s local weather. Cold and rainy, you may need a rain coat. Warm and
+Sunny? Time for the beach!&lt;/p&gt;
+
+&lt;p&gt;Today&amp;rsquo;s episode is all about cataloging the &lt;em&gt;kinds of things&lt;/em&gt; that we can know
+about the consumers of our digital experiences. The list is quite broad and it
+will range from the fairly straight forward and obvious, into perhaps surprising
+and sometimes creepy.&lt;/p&gt;
+
+&lt;p&gt;But first, let&amp;rsquo;s look at the news to me.&lt;/p&gt;
+
+&lt;h2 id=&#34;it-s-news-to-me:86495ce0bd02ab48a50c4325d0c82ced&#34;&gt;It&amp;rsquo;s News to Me&lt;/h2&gt;
+
+&lt;h3 id=&#34;etail-west-and-browser-push-notifications:86495ce0bd02ab48a50c4325d0c82ced&#34;&gt;eTail West and Browser Push Notifications&lt;/h3&gt;
+
+&lt;p&gt;Personalization has been an important strategy for retailers longer than for anyone else. In many ways, Amazon was the original pioneer of personalization with their early product recommendations, and many sellers and personalization vendors have latched onto that idea.&lt;/p&gt;
+
+&lt;p&gt;Well, &lt;a href=&#34;http://etailwest.wbresearch.com/&#34;&gt;eTail West&lt;/a&gt; is just wrapping up this week, and many sessions focussed on data, omni-channel, personalization and related topics. Before looking at an interesting case study though, I came across a request on eTail&amp;rsquo;s website to subscribe for push notifications. The only place I&amp;rsquo;d seen this before was Facebook, but in case you didn&amp;rsquo;t know, it&amp;rsquo;s now possible to send push notifications directly through a browser. This has generally just been the realm of mobile applications, so this opens up some interesting doors for marketers, though I&amp;rsquo;m not convinced it will really catch on yet.&lt;/p&gt;
+
+&lt;p&gt;In any case, I signed up for the same vendor eTail is using, which is called &lt;a href=&#34;https://pushcrew.com/&#34;&gt;PushCrew&lt;/a&gt;, and have put it up on personalizationpodcast.com at least temporarily to try it out. You can go there and have a look if you&amp;rsquo;re interested. I don&amp;rsquo;t see any capabilities for targeting or personalizing push notifications at the moment, but clearly it would be possible to do this and may be of great interest to some of you out there.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-sephora-pairs-individual-loyalty-data-to-optimize-segmentation-http-www-luxurydaily-com-how-sephora-pairs-individual-loyalty-data-to-optimize-segmentation:86495ce0bd02ab48a50c4325d0c82ced&#34;&gt;&lt;a href=&#34;http://www.luxurydaily.com/how-sephora-pairs-individual-loyalty-data-to-optimize-segmentation/&#34;&gt;How Sephora pairs individual, loyalty data to optimize segmentation&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;By Alex Samuely&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“[Data] is kind of a currency to us,” said Angel Singh, director of product
+analytics and optimization at Sephora. “We have a lot of data on our clients
+and we’re trying to figure out how to leverage it.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Data is imperative when it comes to pinpointing how best to target consumers, since many of them complete shopping journeys across multiple devices.&lt;/p&gt;
+
+&lt;p&gt;“When we think about our clients, we know that they don’t just go into the store and buy something,” Ms. Singh said. “There is a journey.”&lt;/p&gt;
+
+&lt;p&gt;Twenty-three percent of shoppers compare prices on mobile while standing in-store and before going to a bricks-and-mortar location. Additionally, 24 percent engage with a retail app each week, leaving a prime opportunity for marketers to connect with loyal customers.&lt;/p&gt;
+
+&lt;p&gt;Sephora has extended its omnichannel reach to include optimized emails, a new subscription box, a mobile app and mobile Web site.&lt;/p&gt;
+
+&lt;p&gt;The brand also offers a popular loyalty program, Beauty Insider, which rewards users with points for each dollar spent. Points can then be redeemed for sample-size products.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Now we come to the clincher:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Sephora is focusing on digging up real-time data, which has previously proven to be a trickier process due to silos. Having access to individual data would help the brand – as well as in-store associates – give shoppers a personalized experience based on their &lt;em&gt;skin types, beauty regimes and past purchases.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;“We want to recognize everybody,” Ms. Singh said.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I pull that quote specifically because it captures the point of this episode: Context. Sephora wants to know who people are, and for them that means some very specific things. For your organization, it will certainly be different, but narrowing down which variables matter is the key.&lt;/p&gt;
+
+&lt;h2 id=&#34;all-about-context:86495ce0bd02ab48a50c4325d0c82ced&#34;&gt;All about Context&lt;/h2&gt;
+
+&lt;p&gt;So, what can you know about your visitors? It turns out that it&amp;rsquo;s really quite a lot. We&amp;rsquo;re going to start by looking at the raw materials, and work outward to see what can be learned based on that.&lt;/p&gt;
+
+&lt;p&gt;So, let&amp;rsquo;s start with a simple HTTP header which may look something like this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;GET /tutorials/other/top-20-mysql-best-practices/ HTTP/1.1
+Host: net.tutsplus.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5 (.NET CLR 3.5.30729)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Referer: https://www.google.com
+Keep-Alive: 300
+Connection: keep-alive
+Cookie: PHPSESSID=r2t5uvjq435r4q7ib3vtdjq120
+Pragma: no-cache
+Cache-Control: no-cache
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;(source: &lt;a href=&#34;http://code.tutsplus.com/tutorials/http-headers-for-dummies--net-8039&#34;&gt;tutsplus.com tutorial&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;From this very simple request header, the spec for which was last edited in 1994, we can learn an awful lot:&lt;/p&gt;
+
+&lt;h3 id=&#34;user-agent:86495ce0bd02ab48a50c4325d0c82ced&#34;&gt;User Agent&lt;/h3&gt;
+
+&lt;p&gt;This short line of text can be hard to read, but thankfully others have done the hard work of being able to do this, and by running this text through various services such as &lt;a href=&#34;http://uadetector.sourceforge.net/&#34;&gt;UA Detector&lt;/a&gt;, we can learn things like:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Browser&lt;/li&gt;
+&lt;li&gt;Browser Version&lt;/li&gt;
+&lt;li&gt;Device&lt;/li&gt;
+&lt;li&gt;Operating System&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;accept-language:86495ce0bd02ab48a50c4325d0c82ced&#34;&gt;Accept-Language&lt;/h3&gt;
+
+&lt;p&gt;What language has the visitor set their browser for? This is a great source of information for what they may prefer and allows you to give them content in that language.&lt;/p&gt;
+
+&lt;h3 id=&#34;referrer:86495ce0bd02ab48a50c4325d0c82ced&#34;&gt;Referrer&lt;/h3&gt;
+
+&lt;p&gt;Where did they come from? Search Engine? Social Media? Another page on your site? An Ad?&lt;/p&gt;
+
+&lt;p&gt;On top of the page they came from, you can also look at parameters in the url such as Campaign and Source, which are often used by analytics, but can also be used for personalization.&lt;/p&gt;
+
+&lt;h3 id=&#34;cookies:86495ce0bd02ab48a50c4325d0c82ced&#34;&gt;Cookies&lt;/h3&gt;
+
+&lt;p&gt;First and 3rd party cookies are also passed in here. Cookies are how the browser and the server maintain &amp;ldquo;state&amp;rdquo;, which means that the server can recognize the same person from page to page. This becomes incredibly important in a moment when we talk about behavior.&lt;/p&gt;
+
+&lt;h3 id=&#34;ip-address:86495ce0bd02ab48a50c4325d0c82ced&#34;&gt;IP address&lt;/h3&gt;
+
+&lt;p&gt;While not always in the headers, we have IP addresses available from the request itself. While the IP Address itself may look like just numbers, we can use it to infer, with relatively good accuracy, the geographic location of the visitor using a database such as the one from Maxmind.&lt;/p&gt;
+
+&lt;p&gt;You can &lt;a href=&#34;https://www.maxmind.com/en/locate-my-ip-address&#34;&gt;test it for yourself to see how it does&lt;/a&gt;. For me it nailed my postal code, city and state. It also returned a latitude and longitude, but missed me by about 5 miles. This is because it&amp;rsquo;s the lat/long for the zip code and no closer, so you shouldn&amp;rsquo;t expect huge precision from this method.&lt;/p&gt;
+
+&lt;p&gt;Other services, such as &lt;a href=&#34;demandbase.com&#34;&gt;Demandbase&lt;/a&gt; build databases of IP addresses for organizations and can determine what company is viewing this page, giving you access to information like Company Name, company size, industry, number of employees and more. This &lt;em&gt;huge&lt;/em&gt; for B2B companies.&lt;/p&gt;
+
+&lt;h3 id=&#34;geography:86495ce0bd02ab48a50c4325d0c82ced&#34;&gt;Geography&lt;/h3&gt;
+
+&lt;p&gt;Speaking of geolocation, we can also ask the visitor to share their more precise location. This is often done in mobile applications, but can be done on the desktop as well.&lt;/p&gt;
+
+&lt;h3 id=&#34;past-behavior:86495ce0bd02ab48a50c4325d0c82ced&#34;&gt;Past Behavior&lt;/h3&gt;
+
+&lt;p&gt;By keeping track of who we&amp;rsquo;ve seen and what they did, now we can build up a picture of who this person is and what they&amp;rsquo;re really looking for. This may well be the holy grail of context for the majority of organizations, but is also considerably more difficult.&lt;/p&gt;
+
+&lt;p&gt;Future episodes will discuss machine learning and how this can be applied, but simpler rules based approaches can also be extremely valuable. For example, if a visitor has already bought one product, you can stop showing them that product and show others that are of interest. If they&amp;rsquo;ve spent most of their time on a particular topic on a news site, you might show them more news from that subject.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-if-cookies-get-cleared:86495ce0bd02ab48a50c4325d0c82ced&#34;&gt;What if Cookies get cleared?&lt;/h3&gt;
+
+&lt;p&gt;Usually if someone clears their cookies, if they come to your site again they will look like a brand new user.&lt;/p&gt;
+
+&lt;p&gt;A variety of technology exists to try to get around this, generally referred to as &amp;ldquo;device fingerprinting&amp;rdquo;. &lt;a href=&#34;https://en.wikipedia.org/wiki/Device_fingerprint&#34;&gt;The Wikipedia page for Device Fingerprinting&lt;/a&gt; does a good job of explaining what it is and the privacy violation risks. That&amp;rsquo;s going to be a topic of a future episode, but for the time being, think twice before doing something like this.&lt;/p&gt;
+
+&lt;h3 id=&#34;ask-them-questions:86495ce0bd02ab48a50c4325d0c82ced&#34;&gt;Ask them questions&lt;/h3&gt;
+
+&lt;p&gt;Everything above is basically &amp;ldquo;inferred&amp;rdquo; information from what you see a visitor do. You can also just ask them. This is generally done when a user registers for a site and needs to fill in things like name, email address, age, etc. You can also employ the technique of &amp;ldquo;progressive profiling&amp;rdquo;, which means you ask for a little more information each time. LinkedIn is very good at this.&lt;/p&gt;
+
+&lt;p&gt;You can also effectively ask questions without requiring a log in. One great example is by providing links in a navigation structure which request that someone identify which type of customer they are. This can then be captured and as long as you still have that visitor cookied, you can remember their selection.&lt;/p&gt;
+
+&lt;h3 id=&#34;behavior-off-site:86495ce0bd02ab48a50c4325d0c82ced&#34;&gt;Behavior Off-site&lt;/h3&gt;
+
+&lt;h4 id=&#34;3rd-party-cookies:86495ce0bd02ab48a50c4325d0c82ced&#34;&gt;3rd Party Cookies&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://docs.oracle.com/cloud/latest/marketingcs_gs/OMCDA/pdf/Misc/bluekai-little-blue-book.pdf&#34;&gt;Little Blue Book&lt;/a&gt; provides an extensive encylopedia of data sources that can be tapped into, largely focussed on 3rd party advertising cookies.&lt;/p&gt;
+
+&lt;p&gt;These can be great, but beward 3rd party cookie decline.&lt;/p&gt;
+
+&lt;h4 id=&#34;social-mining:86495ce0bd02ab48a50c4325d0c82ced&#34;&gt;Social Mining&lt;/h4&gt;
+
+&lt;p&gt;An example company is &lt;a href=&#34;clearbit.com&#34;&gt;Clearbit&lt;/a&gt;. Go there and type in your email address and see what you get. For me it accurately nailed my website, company, twitter handle, as well as information about my company.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://personalizationpodcast.com/images/clearbit.png&#34; alt=&#34;Clearbit Data Lookup&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What&amp;rsquo;s more, from knowing my twitter handle, one could go and look at my past tweets, who I follow, what I like and dislike (at least, what I&amp;rsquo;ve shared on twitter.)&lt;/p&gt;
+
+&lt;p&gt;This whole area of social mining is a huge field and there&amp;rsquo;s much more depth possible there.&lt;/p&gt;
+
+&lt;h4 id=&#34;social-sign-on:86495ce0bd02ab48a50c4325d0c82ced&#34;&gt;Social Sign-on&lt;/h4&gt;
+
+&lt;p&gt;Besides the public facing data available from sites like Facebook and Twitter, if you ask a customer to sign on using a social sign-on widget like Facebook, Twitter or Google, or using a service like &lt;a href=&#34;janrain.com&#34;&gt;Janrain&lt;/a&gt; or &lt;a href=&#34;gigya.com&#34;&gt;Gigya&lt;/a&gt;, you can ask for visitors to share additional information from their social profiles.&lt;/p&gt;
+
+&lt;h4 id=&#34;spyjax:86495ce0bd02ab48a50c4325d0c82ced&#34;&gt;SpyJax&lt;/h4&gt;
+
+&lt;p&gt;Before leaving this session, I want to call out a crazy little trick I discovered a while back that has been dubbed &amp;ldquo;&lt;a href=&#34;https://davidwalsh.name/ajax-evil-spyjax&#34;&gt;spyjax&lt;/a&gt;&amp;rdquo;. This is a technique that uses only javascript and css, taking advantage of the fact that browsers will make visited links a different color by default. Using Javascript, you can then read in if that color has been changed and discover what websites a user has been to. Now, you have to hardcode this list and it&amp;rsquo;s of limited value. It&amp;rsquo;s also an awful idea and a violation of privacy. It&amp;rsquo;s still a facinating little trick though.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>John Berndt, Part 2 - Personalization Vendors and measuring ROI</title>
