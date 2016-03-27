@@ -6,8 +6,151 @@
     <description>Recent content in Posts on The Personalization Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Feb 2016 12:21:07 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 25 Mar 2016 12:00:00 -0500</lastBuildDate>
     <atom:link href="http://personalizationpodcast.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Episode 11: Machine Learning - Magic, Mayhem, or just Math?</title>
+      <link>http://personalizationpodcast.com/post/episode-11/</link>
+      <pubDate>Fri, 25 Mar 2016 12:00:00 -0500</pubDate>
+      
+      <guid>http://personalizationpodcast.com/post/episode-11/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/255466109&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Will your website&amp;rsquo;s personalization algorithms be taking over the world? Not any time soon according to Katherine Bailey, our guest on this week&amp;rsquo;s show. We cover the underpinnings of machine learning and how it applies to personalization, and talk about a few recent blunders in the field.&lt;/p&gt;
+
+&lt;p&gt;In particular, Katherine and I discuss the different kinds of machine learning such as &lt;a href=&#34;https://en.wikipedia.org/wiki/Supervised_learning&#34;&gt;supervised&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Unsupervised_learning&#34;&gt;unsupervised&lt;/a&gt;, including &lt;a href=&#34;https://en.wikipedia.org/wiki/Linear_regression&#34;&gt;regression&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/K-means_clustering&#34;&gt;k-means&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Decision_tree&#34;&gt;decision trees&lt;/a&gt; and more. We also discuss &lt;a href=&#34;https://en.wikipedia.org/wiki/AlphaGo&#34;&gt;AlphaGo&lt;/a&gt;, as well as &lt;a href=&#34;tay.ai&#34;&gt;Tay the chat bot&lt;/a&gt; and some of the &lt;a href=&#34;http://www.latimes.com/business/technology/la-fi-tn-microsoft-tay-tweets-20160325-htmlstory.html&#34;&gt;horrible things that she &amp;ldquo;learned&amp;rdquo; to say&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Machine learning has made massive strides, but it&amp;rsquo;s far from reaching what we would generally call intelligence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Episode 10: Customer Experience Fundamentals with Melanie Poitras</title>
+      <link>http://personalizationpodcast.com/post/episode-10/</link>
+      <pubDate>Fri, 18 Mar 2016 12:00:00 -0500</pubDate>
+      
+      <guid>http://personalizationpodcast.com/post/episode-10/</guid>
+      <description>
+
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/252836314&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Building Customer Experience has many challenges. Content Strategy, measurement of business goals and personalizations. I sit down in this episode with Melanie Poitras, a friend and colleague who works with Acquia&amp;rsquo;s customers to help define and plan their customer experience strategy, often leading up to implementing Personalization.&lt;/p&gt;
+
+&lt;h2 id=&#34;it-s-news-to-me:6967be25898c1100bccbb0031f0a4e60&#34;&gt;It&amp;rsquo;s News to Me&lt;/h2&gt;
+
+&lt;h3 id=&#34;google-analytics-360-suite-https-www-google-com-analytics-360-suite-modal-active-none:6967be25898c1100bccbb0031f0a4e60&#34;&gt;&lt;a href=&#34;https://www.google.com/analytics/360-suite/#?modal_active=none&#34;&gt;Google Analytics 360 Suite&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;If there&amp;rsquo;s one thing that matters this week, it&amp;rsquo;s Google&amp;rsquo;s &lt;a href=&#34;http://analytics.blogspot.com/2016/03/introducing-google-analytics-360-suite.html&#34;&gt;announcement of Analytics 360&lt;/a&gt;. This includes 6 different products, 4 of which are brand new:
+- Google Audience Center 360 (beta)
+- Google Optimize 360 (beta)
+- Google Data Studio 360 (beta)
+- Google Tag Manager 360
+- Google Analytics 360 (formerly GA Premium)
+- Google Attribution 360 (formerly Adometry)&lt;/p&gt;
+
+&lt;p&gt;We know less than we&amp;rsquo;d like at this point, but this is something I&amp;rsquo;ll be following and reporting on as I learn more.&lt;/p&gt;
+
+&lt;h3 id=&#34;digital-marketing-trends-does-personalization-matter-anymore-http-www-skyword-com-contentstandard-news-digital-marketing-trends-does-personalization-matter-anymore-platform-hootsuite:6967be25898c1100bccbb0031f0a4e60&#34;&gt;&lt;a href=&#34;http://www.skyword.com/contentstandard/news/digital-marketing-trends-does-personalization-matter-anymore/?platform=hootsuite&#34;&gt;Digital Marketing Trends: Does Personalization Matter Anymore?&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;By &lt;a href=&#34;http://www.skyword.com/contentstandard/author/sw-24549/&#34;&gt;Jonathan Crowl&lt;/a&gt;
+&amp;gt; Personalization is still very important, if only to keep pace with the rest of the industry. But to truly champion personalization in your digital marketing strategy, brands must take extra steps to deliver a user experience that is genuinely tailored at the individual level.&lt;/p&gt;
+
+&lt;p&gt;Later he continues:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Personalization is cutthroat among brands. There is enormous value in demonstrating to consumers that you know them and understand their needs better than anyone else.&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;IBM’s Watson solution can reference personality profiles to match their communication style and tone with the type of person being addressed. It can differentiate, as an example, between a retiree and a Millennial, and provide the tone that each group would likely prefer.&lt;/p&gt;
+
+&lt;p&gt;Such a solution would be costly and complex to implement, but the value can’t be understated. While such solutions aren’t ready for mass distribution, they highlight the direction brands are going: Personalization knows no bounds.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;email-marketing-in-2020-https-litmus-com-lp-email-marketing-in-2020:6967be25898c1100bccbb0031f0a4e60&#34;&gt;&lt;a href=&#34;https://litmus.com/lp/email-marketing-in-2020&#34;&gt;Email Marketing in 2020&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;A great resource about the future of Email Marketing .. hint: Personalization is a big part.&lt;/p&gt;
+
+&lt;p&gt;One interesting note is that 66% of respondents to a survey say that machine learning, AI and predictive software will determine the majority of the content in marketing emails over time.&lt;/p&gt;
+
+&lt;h2 id=&#34;interview-with-melanie-poitras:6967be25898c1100bccbb0031f0a4e60&#34;&gt;Interview with Melanie Poitras&lt;/h2&gt;
+
+&lt;p&gt;Customer Experience has several pillars, one of which is Personalization. I had the privilege of sitting down with Melanie who talks and thinks about this stuff all day long. Enjoy!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Episode 9: What&#39;s in a name?</title>
+      <link>http://personalizationpodcast.com/post/episode-9/</link>
+      <pubDate>Thu, 03 Mar 2016 12:00:00 -0500</pubDate>
+      
+      <guid>http://personalizationpodcast.com/post/episode-9/</guid>
+      <description>
+
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/250078181&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;What&amp;rsquo;s in a name? A rose by any other name would smell as sweet.&lt;/p&gt;
+
+&lt;p&gt;&amp;mdash; Juliet&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Does it matter what we call &amp;ldquo;Personalization&amp;rdquo;?&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;There are only two hard things in Computer Science: cache invalidation and naming things.&lt;/p&gt;
+
+&lt;p&gt;&amp;mdash; Phil Karlton&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I think it does, and the industry is struggling. Today I heard a new proposal, &amp;ldquo;Personification&amp;rdquo;, which would be used to address some level of privacy concerns.&lt;/p&gt;
+
+&lt;p&gt;What we need is a Taxonomy for Personalization, and it turns out I&amp;rsquo;m not the first person to think that. So that&amp;rsquo;s what this episode is all about.&lt;/p&gt;
+
+&lt;h2 id=&#34;it-s-news-to-me:48a625d4323d5e3a4c2d0b872d846889&#34;&gt;It&amp;rsquo;s News to Me&lt;/h2&gt;
+
+&lt;h3 id=&#34;content-personalization-webinar:48a625d4323d5e3a4c2d0b872d846889&#34;&gt;Content Personalization Webinar&lt;/h3&gt;
+
+&lt;p&gt;I had the privilege of speaking on an online &lt;a href=&#34;https://www.bigmarker.com/digitaled/How-to-Personalize-Your-Content-for-Better-Engagement?bmid=09628cbb17ae&#34;&gt;panel about content personalization&lt;/a&gt; yesterday. I was joined by &lt;a href=&#34;https://twitter.com/sarakeiko&#34;&gt;Sara Sarasohn from NPR&lt;/a&gt; and &lt;a href=&#34;https://www.linkedin.com/in/eui-hong-sam-han-ab43753&#34;&gt;Sam Han&lt;/a&gt; from the Washington Post, both of whose organizations are doing very interesting things around content recommendations.&lt;/p&gt;
+
+&lt;h3 id=&#34;let-s-get-personal-content-experts-share-their-advice:48a625d4323d5e3a4c2d0b872d846889&#34;&gt;Let&amp;rsquo;s Get Personal: Content Experts Share Their Advice&lt;/h3&gt;
+
+&lt;p&gt;by &lt;a href=&#34;https://twitter.com/DomNicastro&#34;&gt;Dom Nicastro&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In his &lt;a href=&#34;http://www.cmswire.com/digital-experience/lets-get-personal-content-experts-share-their-advice/&#34;&gt;article on CMS Wire&lt;/a&gt;, Dom writes a clear and open piece about the challenges surrounding personalization. He&amp;rsquo;s embarking on a series that I&amp;rsquo;ll be following where he talks with organizations who are implementing personalization with various technologies.&lt;/p&gt;
+
+&lt;p&gt;Dom writes:
+&amp;gt; Talk to any personalization technology vendor and chances are you&amp;rsquo;ll hear a beguiling tale of true one-to-one customer experiences made possible by their product’s uncanny ability to serve up the right content to the right person through the right channel at the right time.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;It’s a seductive vision: Just rev up the personalization engine and voilà, you’ve activated your express pass to conversion and traffic heaven.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Well, if you&amp;rsquo;ve followed this podcast so far, you know that&amp;rsquo;s not my view, and we&amp;rsquo;ve talked about the amount of work involved in getting this stuff done.&lt;/p&gt;
+
+&lt;p&gt;Dom also writes that:
+&amp;gt; The privacy implications of personalization weigh heavy on marketers as well.
+&amp;gt;
+&amp;gt; Andrew Frank, research vice president and distinguished analyst at Gartner, advocates for the idea of “personification” over “personalization.”&lt;/p&gt;
+
+&lt;p&gt;So, another name .. what&amp;rsquo;s going to be? contextualization? individualization? personification? segmentation? how about adaptation? Let&amp;rsquo;s explore some more&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;what-should-we-call-this-stuff:48a625d4323d5e3a4c2d0b872d846889&#34;&gt;What should we call this stuff?&lt;/h2&gt;
+
+&lt;p&gt;Markus Weinmann, Christoph Schneider, Susanne Robra-Bissantz from the University of Braunschweig in Germany and the City University of Hong Kong addressed this question in 2013 in a paper titled &lt;a href=&#34;http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1447&amp;amp;context=amcis2013&#34;&gt;A Taxonomy of Web Personalization&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;They propose breaking the concept of Web Personalization into two primary areas and seven sub-areas, with a further breakdown within these seven that looks like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://personalizationpodcast.com/images/personalization_taxonomy.png&#34; alt=&#34;Web Personalization Taxonomy&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Furthermore, a &lt;a href=&#34;http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2725251&#34;&gt;recent paper on Email personalization&lt;/a&gt; introduces the notion of Non-Informative Content. In other words, the use of a name or company in an email. Of note, they found that &amp;ldquo;adding the name of the message recipient to the email&amp;rsquo;s subject-line increases the probability of the recipient opening it by 20%, which translates to an increase in sales leads by 31% and a reduction in the number of individuals unsubscribing from the email campaign by 17%.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;From a definition perspective, I&amp;rsquo;ve seen this type of personalization decried recently, but more importantly I&amp;rsquo;ve seen new terms introduced to differentiate other types of personalization. However, from the research above, I think we can safely call this &amp;ldquo;non-informative individual static content, driven by explicit, long-term user data.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Too much of a mouthful? I&amp;rsquo;d say so. I think I&amp;rsquo;m not done with this topic.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Episode 8: Context, Context, Context</title>
